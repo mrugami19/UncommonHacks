@@ -1,0 +1,19 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "An Application to find partners to do homework",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "moomoo",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
