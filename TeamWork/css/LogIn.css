@@ -1,6 +1,3 @@
-/*
-	Global classes
-					*/
 body {
 	background-image: url("../images/LogInBG.jpg");
 	background-repeat: no-repeat;
@@ -11,11 +8,6 @@ body {
 	color: #FFFFF0;
 	text-align: center;
 }
-
-.HomePage {
-	text-align: center;
-}
-
 
 .LogInPage {
 	text-align: center;
